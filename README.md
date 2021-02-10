@@ -1,2 +1,2 @@
 # hello-world
-GitHub training
+GitHub learning purpose
